@@ -13,7 +13,6 @@
 I'm a first-year B.Tech student at **IIIT Bhopal**, passionate about building full-stack web applications using the **MERN Stack**, **Next.js**, and modern front-end frameworks like **Tailwind CSS**. I love contributing to open-source projects and collaborating on real-world solutions that create real impact.
 
 - 🔭 Currently working on MERN-based apps and cloud integrations.
-- 🌱 Learning DevOps basics and exploring AI-powered APIs.
 - 🤝 Open to internships, freelance projects, and collaborations.
 - 🛠️ Tech Stack: HTML, CSS, JavaScript, React, Node.js, Express, MongoDB, Git, GitHub
 
