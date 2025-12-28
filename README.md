@@ -17,7 +17,7 @@
 
 ## 💼 About Me
 
-First-year CSE student at **IIIT Bhopal** (CGPA: 8.89) with a passion for building scalable, user-centric web applications. I specialize in the **MERN Stack** and **Next.js**, focusing on clean architecture and seamless user experiences.
+First-year CSE student at **IIIT Bhopal** (CGPA: 8.83) with a passion for building scalable, user-centric web applications. I specialize in the **MERN Stack** and **Next.js**, focusing on clean architecture and seamless user experiences.
 
 🏆 **GSSoC'24 Top 2000 Contributor** | Developer @ Website Cell, IIIT Bhopal | Tech Coordinator @ Inspire
 
