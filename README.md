@@ -153,10 +153,10 @@ First-year CSE student at **IIIT Bhopal** (CGPA: 8.89) with a passion for buildi
 
 ## 📊 GitHub Analytics
 
-<p align="center">
+<!-- <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Premshaw23&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Premshaw23&layout=compact&theme=radical&hide_border=true"/>
-</p>
+</p> -->
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Premshaw23&theme=radical&fire=EB5454" alt="GitHub Streak" />
