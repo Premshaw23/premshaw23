@@ -184,13 +184,13 @@ First-year CSE student at **IIIT Bhopal** (CGPA: 8.83) with a passion for buildi
   <a href="https://linkedin.com/in/premshaw2311">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://portfolio-one-omega-53.vercel.app">
+  <a href="https://itspremdev.vercel.app">
     <img src="https://img.shields.io/badge/Portfolio-121212?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
   <a href="https://leetcode.com/u/premshaw11/">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
   </a>
-  <a href="https://www.codechef.com/users/premshaw11">
+  <a href="https://www.codechef.com/users/premshaw">
     <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" />
   </a>
 </p>
