@@ -166,7 +166,7 @@ First-year CSE student at **IIIT Bhopal** (CGPA: 8.83) with a passion for buildi
 </p> -->
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Premshaw23&theme=radical&fire=EB5454" alt="GitHub Streak" />
+  <img src="https://nirzak-streak-stats.vercel.app/?user=Premshaw23&theme=radical&fire=EB5454" alt="GitHub Streak" />
 </p>
 
 <p align="center">
