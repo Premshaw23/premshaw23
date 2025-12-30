@@ -83,15 +83,22 @@ First-year CSE student at **IIIT Bhopal** (CGPA: 8.83) with a passion for buildi
 
 ---
 
-### 🧠 [Brainwave](https://github.com/premshaw23/brainwave) — AI Landing Page
-> Stunning landing page showcasing AI capabilities with modern design
+### 🧠 [BrainWave](https://github.com/premshaw23/brainwave) — AI-Powered Learning Platform
+> Full-stack EdTech application enabling AI-driven study content generation and real-time collaboration
 
-**Tech:** React.js • Tailwind CSS • Framer Motion
+**Stack:** Next.js • React • MongoDB • Google Gemini • Socket.io • Firebase • Tailwind CSS
 
-- ✨ Created immersive UI with parallax effects and smooth animations
-- 📱 Fully responsive design optimized for all devices
-- 🎨 Implemented modern design patterns with glassmorphism and gradients
-- ⚡ Optimized performance with code splitting and lazy loading
+**Key Achievements:**
+- 🤖 Integrated Google Gemini API for AI quiz/flashcard generation from uploaded documents
+- 💬 Built real-time chat system with Socket.io supporting multiple concurrent study groups
+- 📊 Implemented gamification features (streaks, leaderboards) increasing user engagement
+- 🔐 Architected secure authentication flow with Firebase and role-based permissions
+- ⚡ Optimized performance with server-side rendering and efficient database queries
+- 🌐 Deployed on Vercel with CI/CD pipeline and 99.9% uptime
+
+**Impact:** Streamlined study material creation, reducing prep time from hours to seconds
+
+[Live Demo](https://brainwave-two-iota.vercel.app/)
 
 ---
 
