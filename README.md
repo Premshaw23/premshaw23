@@ -31,44 +31,78 @@ First-year CSE student at **IIIT Bhopal** (CGPA: 8.83) with a passion for buildi
 
 ## 🔧 Tech Stack
 
-**Languages**  
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat-square)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=flat-square)
-![C++](https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white&style=flat-square)
-![SQL](https://img.shields.io/badge/SQL-4479A1?logo=postgresql&logoColor=white&style=flat-square)
+**Languages**
 
-**Frontend**  
-![Next.js](https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white&style=flat-square)
-![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB&style=flat-square)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white&style=flat-square)
-![Redux](https://img.shields.io/badge/Redux-764ABC?logo=redux&logoColor=white&style=flat-square)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript\&logoColor=black\&style=flat-square)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript\&logoColor=white\&style=flat-square)
+![C++](https://img.shields.io/badge/C++-00599C?logo=cplusplus\&logoColor=white\&style=flat-square)
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python\&logoColor=white\&style=flat-square)
+![SQL](https://img.shields.io/badge/SQL-4479A1?logo=postgresql\&logoColor=white\&style=flat-square)
+![Bash](https://img.shields.io/badge/Bash-121011?logo=gnubash\&logoColor=white\&style=flat-square)
 
-**Backend & Database**  
-![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white&style=flat-square)
-![Express.js](https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=white&style=flat-square)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white&style=flat-square)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black&style=flat-square)
+**Frontend**
 
-**Tools & Platforms**  
-![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=flat-square)
-![Vercel](https://img.shields.io/badge/Vercel-000000?logo=vercel&logoColor=white&style=flat-square)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white&style=flat-square)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?logo=visualstudiocode&logoColor=white&style=flat-square)
+![Next.js](https://img.shields.io/badge/Next.js-000000?logo=nextdotjs\&logoColor=white\&style=flat-square)
+![React](https://img.shields.io/badge/React-20232A?logo=react\&logoColor=61DAFB\&style=flat-square)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?logo=tailwind-css\&logoColor=white\&style=flat-square)
+![Redux](https://img.shields.io/badge/Redux-764ABC?logo=redux\&logoColor=white\&style=flat-square)
+![Zustand](https://img.shields.io/badge/Zustand-443E38?logo=react\&logoColor=white\&style=flat-square)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5\&logoColor=white\&style=flat-square)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3\&logoColor=white\&style=flat-square)
 
+**Backend & Database**
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js\&logoColor=white\&style=flat-square)
+![Express.js](https://img.shields.io/badge/Express.js-000000?logo=express\&logoColor=white\&style=flat-square)
+![Nest.js](https://img.shields.io/badge/NestJS-E0234E?logo=nestjs\&logoColor=white\&style=flat-square)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql\&logoColor=white\&style=flat-square)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb\&logoColor=white\&style=flat-square)
+![Redis](https://img.shields.io/badge/Redis-DC382D?logo=redis\&logoColor=white\&style=flat-square)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?logo=firebase\&logoColor=black\&style=flat-square)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?logo=prisma\&logoColor=white\&style=flat-square)
+
+**Real-Time & Systems**
+
+![WebSockets](https://img.shields.io/badge/WebSockets-010101?logo=socketdotio\&logoColor=white\&style=flat-square)
+![WebRTC](https://img.shields.io/badge/WebRTC-333333?logo=webrtc\&logoColor=white\&style=flat-square)
+![Socket.io](https://img.shields.io/badge/Socket.io-010101?logo=socketdotio\&logoColor=white\&style=flat-square)
+
+**DevOps & Tools**
+
+![Git](https://img.shields.io/badge/Git-F05032?logo=git\&logoColor=white\&style=flat-square)
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker\&logoColor=white\&style=flat-square)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?logo=githubactions\&logoColor=white\&style=flat-square)
+![Vercel](https://img.shields.io/badge/Vercel-000000?logo=vercel\&logoColor=white\&style=flat-square)
+![Railway](https://img.shields.io/badge/Railway-0B0D0E?logo=railway\&logoColor=white\&style=flat-square)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman\&logoColor=white\&style=flat-square)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?logo=visualstudiocode\&logoColor=white\&style=flat-square)
+![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux\&logoColor=black\&style=flat-square)
 ---
 
 ## 🚀 Featured Projects
 
-### 🎓 [Learnova](https://github.com/premshaw23/learnova) — Smart Education Platform
-> Full-stack education platform with AI-powered attendance and analytics
+### 🚀 [CFlytics](https://github.com/premshaw23/cflytics) — Advanced Codeforces Analytics & IDE Platform
 
-**Tech:** Next.js • MongoDB • Firebase • Tailwind CSS
+**Tech:** Next.js 15, TypeScript, PostgreSQL, Redis, Prisma, Cloudscraper, Tailwind CSS
 
-- ✅ Built face recognition attendance system with **98% accuracy**, saving 5 hours/week
-- 📊 Developed real-time analytics dashboard, improving engagement by **30%**
-- 🤖 Integrated chatbot and smart notice board with role-based access control
-- ⚡ Optimized performance: **30% faster load times**, **92+ accessibility score**
+* Engineered a competitive programming dashboard tracking rating trends & performance metrics.
+* Built on-demand scraping engine indexing **8000+ problems** bypassing Cloudflare.
+* Created browser-based IDE with Monaco + custom test case execution.
+* Multi‑layer caching (Redis + Memory) achieving **<50ms** load time.
+* Interactive rating graphs & peer-comparison with complex SQL aggregations.
 
+🔗 **Live:** [https://cflytics.in](https://cflytics.in)
+---
+### ⚡ [FluxDrop](https://github.com/premshaw23/fluxdrop) — P2P Encrypted File Sharing Platform
+
+**Tech:** Next.js, React, TypeScript, WebRTC, WebSockets, Node.js, Redis, Tailwind CSS
+
+* P2P transfers via WebRTC DataChannels reaching **50+ Mbps**.
+* AES‑256‑GCM encryption with ECDH key exchange (zero-knowledge).
+* Real‑time signaling server with QR pairing.
+* Deployed on Vercel + Railway with **99.9% uptime**.
+
+🔗 **Live:** [https://fluxdrop.vercel.app](https://fluxdrop.vercel.app)
 ---
 
 ### 🛍️ [Bazaary](https://github.com/premshaw23/bazaary) — E-Commerce Platform
