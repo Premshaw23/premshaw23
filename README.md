@@ -22,7 +22,7 @@ First-year CSE student at **IIIT Bhopal** (CGPA: 8.83) with a passion for buildi
 🏆 **GSSoC'24 Top 2000 Contributor** | Developer @ Website Cell, IIIT Bhopal | Tech Coordinator @ Inspire
 
 - 🔭 Currently working on **Learnova** — a smart education platform with AI-powered features
-- 🌱 Deep-diving into **WebSockets**, **GraphQL**, **Docker**,**kubernetes**, and **AWS**
+- 🌱 Deep-diving into **WebSockets**, **GraphQL**, **Docker**, **kubernetes**, and **AWS**
 - 💡 Solved **350+ LeetCode** & **700+ competitive programming** problems
 - ⚡ **CodeChef 3-Star** (1600+ rating) | ATF Stage 2 Qualifier (Top 3.48%)
 - 🤝 Open to **internships**, **freelance projects**, and **open-source collaborations**
