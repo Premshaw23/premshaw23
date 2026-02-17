@@ -17,16 +17,20 @@
 
 ## 💼 About Me
 
-First-year CSE student at **IIIT Bhopal** (CGPA: 8.83) with a passion for building scalable, user-centric web applications. I specialize in the **MERN Stack** and **Next.js**, focusing on clean architecture and seamless user experiences.
+First-year CSE student at **IIIT Bhopal** (CGPA: 8.83) dedicated to engineering high-performance, scalable web ecosystems. I combine rigorous algorithmic problem-solving with modern full-stack development, specializing in the **MERN Stack**, **Next.js**, and **Real-Time Systems**.
+
+**🚀 Freelance & Professional Services**
+I am actively available for freelance projects and internships. I specialize in building high-tier, production-ready platforms for startups and individuals at **highly competitive, value-driven rates**.
+*   **Custom SaaS & Web Apps:** From ideation to deployment with enterprise-level quality.
+*   **Performance Optimization:** Converting slow legacy apps into high-speed experiences.
+*   **Real-Time Solutions:** P2P file sharing, live chat, and collaborative tools.
 
 🏆 **GSSoC'24 Top 2000 Contributor** | Developer @ Website Cell, IIIT Bhopal | Tech Coordinator @ Inspire
 
-- 🔭 Currently working on **Learnova** — a smart education platform with AI-powered features
-- 🌱 Deep-diving into **WebSockets**, **GraphQL**, **Docker**, **Kubernetes**, and **AWS**
+- 🔭 Currently working on **Learnova** — a smart, AI-integrated education ecosystem
+- 🌱 Deep-diving into **DevOps (Docker/K8s)**, **Cloud Architecture (AWS)**, and **System Design**
 - 💡 Solved **350+ LeetCode** & **700+ competitive programming** problems
 - ⚡ **CodeChef 3-Star** (1600+ rating) | ATF Stage 2 Qualifier (Top 3.48%)
-- 🤝 Open to **internships**, **freelance projects**, and **open-source collaborations**
-
 ---
 
 ## 🔧 Tech Stack
@@ -85,11 +89,10 @@ First-year CSE student at **IIIT Bhopal** (CGPA: 8.83) with a passion for buildi
 
 **Tech:** Next.js 15, TypeScript, PostgreSQL, Redis, Prisma, Cloudscraper, Tailwind CSS
 
-* Engineered a competitive programming dashboard tracking rating trends & performance metrics.
-* Built on-demand scraping engine indexing **8000+ problems** bypassing Cloudflare.
-* Created browser-based IDE with Monaco + custom test case execution.
-* Multi‑layer caching (Redis + Memory) achieving **<50ms** load time.
-* Interactive rating graphs & peer-comparison with complex SQL aggregations.
+* **Performance:** Architected a multi-layer caching system (Redis + In-Memory) achieving **<50ms** load times.
+* **Engineering:** Built a custom scraping engine to index **8000+ problems**, bypassing complex anti-bot protections.
+* **Feature:** Created browser-based IDE with Monaco + custom test case execution.
+* **Analytics:** Interactive rating graphs & peer-comparison with complex SQL aggregations.
 
 🔗 **Live:** [https://cflytics.in](https://cflytics.in)
 ---
@@ -97,11 +100,10 @@ First-year CSE student at **IIIT Bhopal** (CGPA: 8.83) with a passion for buildi
 
 **Tech:** Next.js, React, TypeScript, WebRTC, WebSockets, Node.js, Redis, Tailwind CSS
 
-* P2P transfers via WebRTC DataChannels reaching **50+ Mbps**.
-* AES‑256‑GCM encryption with ECDH key exchange (zero-knowledge).
-* Real‑time signaling server with QR pairing.
-* Deployed on Vercel + Railway with **99.9% uptime**.
-
+* **Security:** Implemented AES-256-GCM encryption with ECDH key exchange for **zero-knowledge** data transfers.
+* **Speed:** Leveraged WebRTC DataChannels to facilitate direct P2P transfers exceeding **50+ Mbps**.
+* **Reliability:** Real‑time signaling server with QR pairing, deployed on Vercel + Railway with **99.9% uptime**.
+  
 🔗 **Live:** [https://fluxdrop.vercel.app](https://fluxdrop.vercel.app)
 ---
 
@@ -122,13 +124,9 @@ First-year CSE student at **IIIT Bhopal** (CGPA: 8.83) with a passion for buildi
 
 **Stack:** Next.js • React • MongoDB • Google Gemini • Socket.io • Firebase • Tailwind CSS
 
-**Key Achievements:**
-- 🤖 Integrated Google Gemini API for AI quiz/flashcard generation from uploaded documents
-- 💬 Built real-time chat system with Socket.io supporting multiple concurrent study groups
-- 📊 Implemented gamification features (streaks, leaderboards) increasing user engagement
-- 🔐 Architected secure authentication flow with Firebase and role-based permissions
-- ⚡ Optimized performance with server-side rendering and efficient database queries
-- 🌐 Deployed on Vercel with CI/CD pipeline and 99.9% uptime
+* **Intelligence:** Integrated Google Gemini API for automated, real-time AI generation of educational content.
+* **Engagement:** Developed a real-time gamification engine with Socket.io for live user interaction and leaderboards.
+* **Architecture:** Secure authentication flow with Firebase and role-based permissions.
 
 **Impact:** Streamlined study material creation, reducing prep time from hours to seconds
 
@@ -169,7 +167,7 @@ First-year CSE student at **IIIT Bhopal** (CGPA: 8.83) with a passion for buildi
 | **GSSoC'24** | Top 2000 Contributor (Rank: 1676, Score: 500) |
 | **CodeChef** | 3-Star Rating (1600+) |
 | **ATF Qualifier** | Stage 2 (Top 3.48% Nationally) |
-| **Problem Solving** | 200+ LeetCode • 700+ CP Problems |
+| **Problem Solving** | 350+ LeetCode • 700+ CP Problems |
 | **Open Source** | 10+ Badges Earned |
 
 </div>
