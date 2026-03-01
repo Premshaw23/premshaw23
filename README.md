@@ -1,4 +1,4 @@
-# Hey there, I'm Prem Shaw 👋
+<h1 align="center">Hey there, I'm Prem Shaw 👋</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&duration=3000&pause=1000&color=F76C6C&center=true&vCenter=true&width=500&lines=Full-Stack+Developer;Open+Source+Enthusiast;Competitive+Programmer;MERN+Stack+%7C+Next.js+%7C+Firebase;Building+Real-World+Solutions+%F0%9F%9A%80" />
@@ -31,6 +31,7 @@ I am actively available for freelance projects and internships. I specialize in 
 - 🌱 Deep-diving into **DevOps (Docker/K8s)**, **Cloud Architecture (AWS)**, and **System Design**
 - 💡 Solved **350+ LeetCode** & **700+ competitive programming** problems
 - ⚡ **CodeChef 3-Star** (1600+ rating) | ATF Stage 2 Qualifier (Top 3.48%)
+
 ---
 
 ## 🔧 Tech Stack
@@ -81,6 +82,7 @@ I am actively available for freelance projects and internships. I specialize in 
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman\&logoColor=white\&style=flat-square)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?logo=visualstudiocode\&logoColor=white\&style=flat-square)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux\&logoColor=black\&style=flat-square)
+
 ---
 
 ## 🚀 Featured Projects
@@ -95,7 +97,9 @@ I am actively available for freelance projects and internships. I specialize in 
 * **Analytics:** Interactive rating graphs & peer-comparison with complex SQL aggregations.
 
 🔗 **Live:** [https://cflytics.in](https://cflytics.in)
+
 ---
+
 ### ⚡ [FluxDrop](https://github.com/premshaw23/fluxdrop) — P2P Encrypted File Sharing Platform
 
 **Tech:** Next.js, React, TypeScript, WebRTC, WebSockets, Node.js, Redis, Tailwind CSS
@@ -103,8 +107,9 @@ I am actively available for freelance projects and internships. I specialize in 
 * **Security:** Implemented AES-256-GCM encryption with ECDH key exchange for **zero-knowledge** data transfers.
 * **Speed:** Leveraged WebRTC DataChannels to facilitate direct P2P transfers exceeding **50+ Mbps**.
 * **Reliability:** Real‑time signaling server with QR pairing, deployed on Vercel + Railway with **99.9% uptime**.
-  
+
 🔗 **Live:** [https://fluxdrop.vercel.app](https://fluxdrop.vercel.app)
+
 ---
 
 ### 🛍️ [Bazaary](https://github.com/premshaw23/bazaary) — E-Commerce Platform
@@ -112,10 +117,10 @@ I am actively available for freelance projects and internships. I specialize in 
 
 **Tech:** Next.js • MongoDB • Razorpay • JWT
 
-- 💳 Integrated Razorpay payment gateway for secure transactions
-- 🔐 Implemented JWT authentication and OAuth 2.0 for user security
-- 📦 Built admin dashboard for product and order management
-- 🎨 Designed responsive UI with Tailwind CSS for seamless shopping experience
+* **Payments:** Integrated Razorpay payment gateway for secure transactions.
+* **Security:** Implemented JWT authentication and OAuth 2.0 for user security.
+* **Admin:** Built admin dashboard for product and order management.
+* **UI:** Designed responsive storefront with Tailwind CSS for a seamless shopping experience.
 
 ---
 
@@ -130,7 +135,18 @@ I am actively available for freelance projects and internships. I specialize in 
 
 **Impact:** Streamlined study material creation, reducing prep time from hours to seconds
 
-[Live Demo](https://brainwave-two-iota.vercel.app/)
+🔗 [Live Demo](https://brainwave-two-iota.vercel.app/)
+
+---
+
+### 🎓 [Learnova](https://github.com/premshaw23/learnova) — AI-Integrated Education Ecosystem *(In Progress)*
+> Smart, full-featured education platform powered by AI for personalized learning paths
+
+**Stack:** Next.js • TypeScript • MongoDB • Google Gemini • Socket.io • Redis • Tailwind CSS
+
+* **AI Core:** Personalized curriculum generation and adaptive quiz engine powered by Gemini.
+* **Collaboration:** Real-time study rooms with Socket.io for peer learning and live doubt solving.
+* **Scalability:** Redis-backed session management and rate limiting for high-concurrency usage.
 
 ---
 
@@ -139,10 +155,10 @@ I am actively available for freelance projects and internships. I specialize in 
 
 **Tech:** Next.js • MongoDB • Tailwind CSS
 
-- 🔒 Added custom aliases, password protection, and expiration control
-- 📊 Built analytics dashboard with click tracking, IP/device data, and usage graphs
-- 📤 Implemented CSV export for data portability
-- 🎯 Improved link management efficiency by **40%**
+* **Privacy:** Custom aliases, password protection, and expiration control.
+* **Analytics:** Dashboard with click tracking, IP/device data, and usage graphs.
+* **Portability:** CSV export for full data ownership.
+* **Efficiency:** Improved link management efficiency by **40%**.
 
 ---
 
@@ -151,10 +167,10 @@ I am actively available for freelance projects and internships. I specialize in 
 
 **Tech:** Next.js • Firebase • Tailwind CSS
 
-- 🔐 Firebase Auth with Google, GitHub, and email login
-- ✍️ Markdown editor with live preview and syntax highlighting
-- 📝 Admin CRUD panel for blogs, projects, and skills (**60% faster updates**)
-- 🎯 Boosted recruiter engagement by **40%** through SEO optimization
+* **Auth:** Firebase Auth with Google, GitHub, and email login.
+* **Editor:** Markdown editor with live preview and syntax highlighting.
+* **Admin:** CRUD panel for blogs, projects, and skills (**60% faster updates**).
+* **SEO:** Boosted recruiter engagement by **40%** through SEO optimization.
 
 ---
 
@@ -192,13 +208,13 @@ I am actively available for freelance projects and internships. I specialize in 
 
 ## 📊 GitHub Analytics
 
-<!-- <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Premshaw23&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Premshaw23&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Premshaw23&layout=compact&theme=radical&hide_border=true"/>
-</p> -->
+</p>
 
 <p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=Premshaw23&theme=radical&fire=EB5454" alt="GitHub Streak" />
+  <img src="https://nirzak-streak-stats.vercel.app/?user=Premshaw23&theme=radical&fire=EB5454&hide_border=true" alt="GitHub Streak" />
 </p>
 
 <p align="center">
@@ -224,6 +240,9 @@ I am actively available for freelance projects and internships. I specialize in 
   </a>
   <a href="https://www.codechef.com/users/premshaw">
     <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" />
+  </a>
+  <a href="https://codeforces.com/profile/premshaw23">
+    <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" />
   </a>
 </p>
 
