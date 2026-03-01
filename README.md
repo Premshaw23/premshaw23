@@ -209,7 +209,7 @@ I am actively available for freelance projects and internships. I specialize in 
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img height="180em" src="https://gh-stats.work/api?username=Premshaw23&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true"/>
+  <img height="180em" src="https://gh-stats.work/api?username=Premshaw23&show_icons=true&theme=radical&hide_border=true"/>
   <img height="180em" src="https://gh-stats.work/api/top-langs/?username=Premshaw23&layout=compact&theme=radical&hide_border=true"/>
 </p>
 
