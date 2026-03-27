@@ -9,6 +9,9 @@
   <a href="mailto:shawprem217@gmail.com">
     <img src="https://img.shields.io/badge/Email-D44638?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
   </a>
+  <a href="https://linkedin.com/in/premshaw2311">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
   <img src="https://img.shields.io/badge/Open%20Source-GSSoC-%23f9d423?style=flat-square&logo=github&logoColor=white" alt="GSSoC" />
   <img src="https://komarev.com/ghpvc/?username=Premshaw23&style=flat-square&color=blue" alt="Profile Views" />
 </p>
@@ -21,9 +24,9 @@ First-year CSE student at **IIIT Bhopal** (CGPA: 8.83) dedicated to engineering 
 
 **🚀 Freelance & Professional Services**
 I am actively available for freelance projects and internships. I specialize in building high-tier, production-ready platforms for startups and individuals at **highly competitive, value-driven rates**.
-*   **Custom SaaS & Web Apps:** From ideation to deployment with enterprise-level quality.
-*   **Performance Optimization:** Converting slow legacy apps into high-speed experiences.
-*   **Real-Time Solutions:** P2P file sharing, live chat, and collaborative tools.
+- **Custom SaaS & Web Apps:** From ideation to deployment with enterprise-level quality.
+- **Performance Optimization:** Converting slow legacy apps into high-speed experiences.
+- **Real-Time Solutions:** P2P file sharing, live chat, and collaborative tools.
 
 🏆 **GSSoC'24 Top 2000 Contributor** | Developer @ Website Cell, IIIT Bhopal | Tech Coordinator @ Inspire
 
@@ -106,7 +109,7 @@ I am actively available for freelance projects and internships. I specialize in 
 
 * **Security:** Implemented AES-256-GCM encryption with ECDH key exchange for **zero-knowledge** data transfers.
 * **Speed:** Leveraged WebRTC DataChannels to facilitate direct P2P transfers exceeding **50+ Mbps**.
-* **Reliability:** Real‑time signaling server with QR pairing, deployed on Vercel + Railway with **99.9% uptime**.
+* **Reliability:** Real-time signaling server with QR pairing, deployed on Vercel + Railway with **99.9% uptime**.
 
 🔗 **Live:** [https://fluxdrop.vercel.app](https://fluxdrop.vercel.app)
 
@@ -209,8 +212,8 @@ I am actively available for freelance projects and internships. I specialize in 
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img height="180em" src="https://gh-stats.work/api?username=Premshaw23&show_icons=true&theme=radical&hide_border=true"/>
-  <img height="180em" src="https://gh-stats.work/api/top-langs/?username=Premshaw23&layout=compact&theme=radical&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Premshaw23&show_icons=true&theme=radical&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Premshaw23&layout=compact&theme=radical&hide_border=true"/>
 </p>
 
 <p align="center">
