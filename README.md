@@ -20,7 +20,7 @@
 
 ## 💼 About Me
 
-First-year CSE student at **IIIT Bhopal** (CGPA: 8.83) dedicated to engineering high-performance, scalable web ecosystems. I combine rigorous algorithmic problem-solving with modern full-stack development, specializing in the **MERN Stack**, **Next.js**, and **Real-Time Systems**.
+Second-year CSE student at **IIIT Bhopal** (CGPA: 8.83) dedicated to engineering high-performance, scalable web ecosystems. I combine rigorous algorithmic problem-solving with modern full-stack development, specializing in the **MERN Stack**, **Next.js**, and **Real-Time Systems**.
 
 **🚀 Freelance & Professional Services**
 I am actively available for freelance projects and internships. I specialize in building high-tier, production-ready platforms for startups and individuals at **highly competitive, value-driven rates**.
