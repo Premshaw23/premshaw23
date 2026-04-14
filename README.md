@@ -217,7 +217,7 @@ I am actively available for freelance projects and internships. I specialize in 
 </p>
 
 <p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=Premshaw23&theme=radical&fire=EB5454&hide_border=true" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=Premshaw23&theme=radical&fire=EB5454&hide_border=true" alt="GitHub Streak" />
 </p>
 
 <p align="center">
