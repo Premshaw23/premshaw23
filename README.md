@@ -209,20 +209,29 @@ I am actively available for freelance projects and internships. I specialize in 
 
 ---
 
-## 📊 GitHub Analytics
+<!-- Streak Feature -->
+<h2 align="center"><img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/0b335028-1d3d-4ee5-b5b3-a373d499be7e" width="45"> GitHub Stats </h2>
+<div align="center" width="50%">
+  <p>
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=premshaw23&theme=dark&fire=FF5E5E&ring=FFB380&currStreakNum=FF5E5E" alt="Neeru's GitHub Streak" /> 
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Premshaw23&show_icons=true&theme=radical&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Premshaw23&layout=compact&theme=radical&hide_border=true"/>
-</p>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Premshaw23&theme=radical&fire=EB5454&hide_border=true" alt="GitHub Streak" />
-</p>
+  </p>
+</div>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Premshaw23&theme=react-dark&hide_border=true" alt="Contribution Graph" />
-</p>
+<!-- Dropdown for More Stats -->
+<div align="center" style="max-width: 600px; margin: auto;">
+
+  <div align="center">
+    <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=premshaw23&theme=github_dark" />
+    <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=premshaw23&theme=github_dark" />
+    <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=premshaw23&theme=github_dark" />
+    <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=premshaw23&theme=github_dark" />
+    <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=premshaw23&theme=github_dark" />
+  </div>
+  <br>
+  
+</div>
 
 ---
 
