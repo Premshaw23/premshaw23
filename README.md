@@ -235,6 +235,12 @@ I am actively available for freelance projects and internships. I specialize in 
 
 ---
 
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Premshaw23&theme=react-dark&hide_border=true" alt="Contribution Graph" />
+</p>
+
+---
+
 ## 🤝 Let's Connect
 
 <p align="center">
@@ -257,6 +263,7 @@ I am actively available for freelance projects and internships. I specialize in 
     <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" />
   </a>
 </p>
+
 
 ---
 
